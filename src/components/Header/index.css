@@ -1,0 +1,29 @@
+/* Write your CSS code here */
+.styling {
+  width: 100%;
+  justify-self: flex-start;
+}
+
+.row-styling {
+  display: flex;
+}
+
+.row-styling-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.image {
+  height: 50px;
+  width: 50px;
+  margin-top: 10px;
+}
+
+.wave-heading {
+  font-size: 25px;
+  font-family: 'Roboto';
+  color: #12022f;
+  padding-left: 10px;
+  margin-right: 30px;
+}
